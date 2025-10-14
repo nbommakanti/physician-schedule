@@ -1,6 +1,7 @@
-# physician-schedule
+# Physician Schedule Generator
 Generate .ics file for a physician's weekly schedule
 
+[Link](https://physician-schedule.streamlit.app)
 
 ## Copy schedule grid
 <img width="724" height="260" alt="Screenshot 2025-10-14 at 9 40 24 AM" src="https://github.com/user-attachments/assets/365eaa8b-3727-47d2-9cc3-aaed008bd456" />
